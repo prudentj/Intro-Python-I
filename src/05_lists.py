@@ -35,3 +35,7 @@ q = []
 for n in x:
     q.append(n*1000)
 print(q)
+# Another way to do the same thing
+# for i in range(0, len(x)):
+#     x[i] = x[i]*1000
+# print(x)
