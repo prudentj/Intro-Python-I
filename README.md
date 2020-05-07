@@ -46,6 +46,8 @@ best for learning new languages.
    ```
    pipenv shell
    ```
+   or py -m pipenv 
+
    This will get you into the virtual environment. At this point, you should be
    able to run Python 3 by just running `python`:
    ```
